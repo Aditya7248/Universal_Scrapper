@@ -1,4 +1,3 @@
-```markdown
 # Universal Scrapper: Your Versatile Web Scraping Tool
 
 ## Introduction
@@ -44,8 +43,5 @@ Simply input the URL of the website you wish to scrape when prompted, and Univer
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue to discuss potential improvements.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-```
 
 Feel free to adjust any sections to better fit your style or add any additional information!
